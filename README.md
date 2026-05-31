@@ -1,14 +1,2 @@
 # Felizit4s.github.io
 Website to test out HTML progress
-
-<!DOCTYPE>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Felix Hajek's personal Webpage</title>
-  </head>
-
-  <body>
-    <h1>Felix Hajek's personal Webpage</h1>
-  </body>
-</html>
